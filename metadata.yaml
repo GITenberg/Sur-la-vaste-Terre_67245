@@ -1,0 +1,36 @@
+_repo: Sur-la-vaste-Terre_67245
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2022-01-25'
+identifiers:
+  gutenberg: '67245'
+language: fr
+pgterms:marc904: https://archive.org/details/surlavasteterre00milluoft
+pgterms:marc905: 20210512123022mille
+pgterms:marc906: '1905'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Calmann-Lévy,1905,copyright 1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: Ramary et Kétaka -- Barnavaux, général -- Ruy Blas -- Barnavaux,
+  homme d'état -- La précaution inutile -- Kidi -- Le dieu -- La vengeance de Madame
+  Murray -- Les Chinois -- L'aveugle.
+title: Sur la vaste Terre
+url: http://www.gutenberg.org/ebooks/67245
